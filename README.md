@@ -29,7 +29,7 @@
 ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&amp;style=for-the-badge&amp;logo=spring&amp;logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## **📊 GitHub Estatísticas 📊**
+## 📊 GitHub Estatísticas
 <a href="https://github.com/AllysonAlves1">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllysonAlves1&theme=dracula&hide_langs_below=1" />
 </a>
@@ -38,7 +38,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AllysonAlves1&show_icons=true&theme=dracula&line_height=27" alt="allyson github stats"/>
  </a>
  
- ### 💌 Entre em contato comigo: ⤵️
+ ### Entre em contato comigo: ⤵️
 
 <p align="left">
 <a href=mailto:allysonalves.01@gmail.com alt="Gmail">
