@@ -6,7 +6,7 @@
         Tenho um grande interesse nas áreas de backend e ciência de dados. Mas atualmente tenho focado minha atuação em FullStack.
 </p>
 
-## 🌟 Tecnologias que estou utilizando mais no momento 🌟
+## 💻 Tecnologias que estou utilizando mais no momento
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -14,22 +14,18 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest.js-ff0019?style=for-the-badge&logo=nestdotjs&logoColor=red)
 ![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## ⭐ Tecnologias que eu já estudei ⭐
+## ⭐ Tecnologias que eu já estudei
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&amp;style=for-the-badge&amp;logo=spring&amp;logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## **💻 Ferramentas 💻**  
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ## **📊 GitHub Estatísticas 📊**
 <a href="https://github.com/AllysonAlves1">
