@@ -1,4 +1,4 @@
-## ** 👨‍💻 Quem sou eu **
+##  👨‍💻 Quem sou eu
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 <p align="left">
@@ -26,15 +26,15 @@
 
 ## 📊 GitHub Estatísticas
 <a href="https://github.com/AllysonAlves1">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllysonAlves1&theme=dracula&hide_langs_below=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllysonAlves1&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/AllysonAlves1">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AllysonAlves1&show_icons=true&theme=dracula&line_height=27" alt="allyson github stats"/>
- </a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AllysonAlves1&show_icons=true&theme=dracula&line_height=27" alt="allyson github stats"/>
+</a>
+<p></p>
  
- ### Entre em contato comigo: ⤵️
-
+## Entre em contato comigo: ⤵️
 <p align="left">
 <a href=mailto:allysonalves.01@gmail.com alt="Gmail">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
