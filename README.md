@@ -4,7 +4,7 @@
 <p align="left">
         I'm Allyson, a Fullstack Developer currently studying Analysis and Systems Development at the Instituto Federal de Pernambuco - IFPE.
         </br>
-        I'm passionate about building fullstack applications and further developing my skills in React/Next.js and Java/Spring.
+        I'm passionate about building fullstack applications and further developing my skills in React/Next.js, Java/Spring and Python/Django.
 </p>
 
 
